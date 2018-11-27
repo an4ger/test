@@ -1,11 +1,12 @@
 {
   "name": "a",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test a",
   "author": "an4ger <an4ger@gmail.com>",
   "homepage": "https://github.com/an4ger/test#readme",
   "license": "ISC",
   "main": "lib/a.js",
+  "private": true,
   "directories": {
     "lib": "lib",
     "test": "__tests__"
